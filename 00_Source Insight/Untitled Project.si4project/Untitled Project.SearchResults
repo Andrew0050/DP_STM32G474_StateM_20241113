@@ -1,0 +1,2 @@
+---- FREQ_STEP_PERCENT Matches (1 in 1 files) ----
+function.c (C:\00_Git\DP_STM32G474_StateM_20241113\Core\Src) line 107 : #define FREQ_STEP_PERCENT 0.1f  // 每次按鍵調整的百分比0.1%
